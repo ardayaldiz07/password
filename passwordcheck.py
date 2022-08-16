@@ -1,4 +1,3 @@
-from importlib.resources import path
 from letters import Letters
 import random
 list_random = [Letters.lower_case_letters,Letters.digits,Letters.upper_case_letters,Letters.special_letters]
